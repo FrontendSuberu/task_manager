@@ -1,0 +1,1 @@
+Okay so today i installed my application and set up my environment
