@@ -13,3 +13,5 @@ Lastly, i also learned good folder structure and how to add custom fonts in our 
 
 That's all for today till tommorow.
 
+21/07/2025
+So i had to delete the folder 2x because the packaes were not installed properly and at some point in time i accidently installed a blank application
