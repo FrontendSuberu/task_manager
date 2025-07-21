@@ -23,3 +23,10 @@ To have my tasks displayed on the screen i created an array of Objects and used 
 We were told to use the Flatlist component React Native. So in a nutshell a Flatlist is a component that returns output to the user that is within the apps viewport that is to say if we have 100 blocks of data and use the flatlist component it will only display the first 10 depending on your device then as you scroll it shows the other piecies of data.
 
 This imporves performance and an overall nice experience for your users.
+
+The flatlist consists of 3 parameters
+Data, KeyExtractor and renderItem
+
+Data - access to our data.
+KeyExtractor - used to get the unique id of our data so we can access each object
+renderItem - 
