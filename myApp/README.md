@@ -29,4 +29,11 @@ Data, KeyExtractor and renderItem
 
 Data - access to our data.
 KeyExtractor - used to get the unique id of our data so we can access each object
-renderItem - 
+renderItem - used to return our data on our app
+
+
+23/07/2025
+
+Used SafeAreaView to make our app view to be within the inner section of our application.
+I hid the Stack Navigation header so i could have the custom
+So i installed expo checkbox so we can use it to check our tasks as completed.
